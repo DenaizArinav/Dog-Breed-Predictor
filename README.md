@@ -43,14 +43,4 @@ The dataset contains over **20,000 labeled images** of dogs across multiple bree
 - Successfully visualized predictions to interpret model decisions.
 - Highlighted the potential for real-world applications in pet care and breed identification.
 
----
 
-## Project Structure
-
-```plaintext
-Dog-Breed-Classification/
-├── data/                 # Dataset files (excluded for privacy)
-├── notebooks/            # Jupyter Notebook for project analysis
-│   └── DogBreedClassifier.ipynb
-├── models/               # Saved CNN models
-├── README.md             # Project documentation
